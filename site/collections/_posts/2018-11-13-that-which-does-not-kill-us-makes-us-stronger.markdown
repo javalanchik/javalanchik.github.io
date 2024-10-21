@@ -3,8 +3,10 @@ _schema: default
 date: 2018-11-13 12:01:35
 title: EconoVation
 description: >-
-  Bring to the table win-win survival strategies to ensure proactive domination.
-  At the end of the day, going forward.
+  We use financial education and consulting to elevate people from socially
+  vulnerable backgrounds, and provide them with experience and job. Helping
+  local businesses with marketing advice and redesigns, we tackle gender issues
+  and labor migration in Uzbekistan.
 tags:
   - Economics
   - Education
