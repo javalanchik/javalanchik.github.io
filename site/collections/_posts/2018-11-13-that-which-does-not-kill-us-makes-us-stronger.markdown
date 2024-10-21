@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2018-11-13 12:01:35
+date: 2018-11-13 00:00:00
 title: EconoVation
 description: Making people more financially literate
 tags:
