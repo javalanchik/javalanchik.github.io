@@ -1,7 +1,7 @@
 ---
 _schema: default
-name: Javlon Khassanov
-position: Founder
-image: /uploads/img-6553-1.jpg
+name: Askar Almukhamet
+position: Advisor
+image: /about/images/client-2.jpg
 blurb: Tashkent Presidential School ‘25
 ---
