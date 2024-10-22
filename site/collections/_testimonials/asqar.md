@@ -1,6 +1,7 @@
 ---
-name: Asqar Almukhamet
-position: Advisor 
-image: 'images/client-2.jpg'
-blurb: Electrical Engineering & Computer Sciences @ UC Berkeley 
+_schema: default
+name: Javlon Khassanov
+position: Founder
+image: /uploads/img-6553.jpg
+blurb: Tashkent Presidential School 25'
 ---
