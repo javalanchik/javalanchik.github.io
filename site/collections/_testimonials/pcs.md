@@ -1,6 +1,7 @@
 ---
-name: Central Asia @ Berkeley
+_schema: default
+name: UC Berkeley Student Organizations
 position: Advisory
-image: 'images/client-4.jpg'
-blurb: The project is supported by the Central Asian Student Association at UC Berkeley  
+image: /uploads/seal-of-university-of-california-berkeley-svg-1-1.png
+blurb: The project is supported by student organizations at UC Berkeley
 ---
