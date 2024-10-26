@@ -3,9 +3,9 @@ _schema: default
 date: 2021-01-06 05:20:35 +0300
 title: Noble heart
 subtitle: Volunteering
-image: /uploads/image-2024-10-26-11-26-56-am.jpg
+image: /uploads/image-2024-10-26-9-26-29-pm.jpg
 ---
-"Help someone today, and tomorrow help will come to you."
+“Help someone today, and tomorrow help will come to you.”
 
 Our organization was created for sympathetic and good-natured people.
 
