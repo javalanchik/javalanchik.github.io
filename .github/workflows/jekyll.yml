@@ -38,12 +38,16 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build Jekyll Site
-        run: bundle exec jekyll build --destination "${{ steps.pages.outputs.base_path }}"
+        # Use a temporary directory for the build output
+        run: bundle exec jekyll build --destination ../_build_output
         env:
           JEKYLL_ENV: production
 
       - name: Upload Artifact
+        # Upload the generated files from the temporary build directory
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ../_build_output
 
   deploy:
     environment:
