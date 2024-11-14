@@ -1,1 +1,3 @@
-social: https://www.instagram.com/caysi.asia/profilecard/?igsh=emsxcjUxczJicjhz
+social:
+  - icon: instagram
+    link: https://www.instagram.com/caysi.asia/
