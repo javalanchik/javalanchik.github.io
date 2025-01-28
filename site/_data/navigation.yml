@@ -1,0 +1,13 @@
+logo_image:
+menu__settings:
+  menu__items:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+    - title: Join CAYSI
+      url: /join
+    - title: Projects
+      submenu:
+        - url: /projects/
+          title: All
