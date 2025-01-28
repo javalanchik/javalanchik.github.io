@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Build site
-        run: jekyll build # Adjust this command for your build tool
+        run: bundle exec jekyll build # Adjust this command for your build tool
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
