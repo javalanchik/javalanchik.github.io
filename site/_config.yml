@@ -1,4 +1,5 @@
 title: Vonge
+destination: ../docs
 
 plugins:
   - jekyll-bookshop
