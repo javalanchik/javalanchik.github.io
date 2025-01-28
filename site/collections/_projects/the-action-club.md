@@ -2,7 +2,7 @@
 _schema: default
 date: 2021-01-09 07:20:35 +0300
 title: The action club
-subtitle: 'Volunteering '
+subtitle: Volunteering | Fergana, Uzbekistan
 image: /uploads/action-club-1.png
 button_link: https://actionclub.site/
 ---

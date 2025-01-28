@@ -8,6 +8,4 @@ menu__settings:
     - title: Join CAYSI
       url: /join
     - title: Projects
-      submenu:
-        - url: /projects/
-          title: All
+      url: /projects/
