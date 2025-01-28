@@ -13,6 +13,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: open dir
+        run: cd site 
+
       - name: Build site
         run: bundle exec jekyll build # Adjust this command for your build tool
 
