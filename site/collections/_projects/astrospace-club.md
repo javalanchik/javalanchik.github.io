@@ -4,6 +4,7 @@ date: 2021-01-06 05:20:35 +0300
 title: Astrospace Club
 subtitle: Science | Uzbekistan 
 image: /uploads/astrospace.jpg
+button_link: https://docs.google.com/forms/d/13BLS8I4-tIoBAEsF5XgBa4hibVY_mZ3ggbbv7f4RQVk/edit
 ---
 Astrospace Club – Founded in 2023 at Jizzakh Presidential School, the top school in Uzbekistan, Astrospace is all about inspiring students to learn more about space and astronomy. Since we started, we've accomplished some amazing things. 
 
