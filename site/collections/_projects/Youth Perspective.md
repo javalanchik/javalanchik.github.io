@@ -2,7 +2,7 @@
 _schema: default
 date: 2021-01-09 07:20:35 +0300
 title: Youth Perspective
-subtitle: Volunteering | Tashkent, Uzbekistan
+subtitle: Debate | Tashkent, Uzbekistan
 image: /uploads/Youth-Perspective.png
 button_link: https://t.me/youthperspective
 ---
