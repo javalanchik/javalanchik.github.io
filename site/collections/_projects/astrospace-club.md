@@ -2,7 +2,7 @@
 _schema: default
 date: 2021-01-06 05:20:35 +0300
 title: Astrospace Club
-subtitle: Science | Uzbekistan 
+subtitle: Science | Jizzax 
 image: /uploads/astrospace.jpg
 button_link: https://docs.google.com/forms/d/13BLS8I4-tIoBAEsF5XgBa4hibVY_mZ3ggbbv7f4RQVk/edit
 ---
